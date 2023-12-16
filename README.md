@@ -1,2 +1,3 @@
 # odin-recipes
-some notes
+build a basic recipe website
+
